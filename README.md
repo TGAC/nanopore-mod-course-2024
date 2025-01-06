@@ -1,9 +1,9 @@
 # Detection of DNA base modification using nanopore sequencing
 
-In this comprehensive two-day course in 2024, participants learned how to use nanopore sequencing to detect DNA base modifications. Designed to be used to accompany the course and also for self-guided students.
+This is an archived course from 2024 where participants learned how to use nanopore sequencing to detect DNA base modifications. Designed to be used to accompany the course and also for self-guided students.
 Click [here](https://tgac.github.io/nanopore-mod-course-2024) to see the site generated from this github repository.
 
-For the current version of this course website, please go [here](https://github.com/sathish-t/nanopore-mod-course).
+For the current version of this repository, please go [here](https://github.com/sathish-t/nanopore-mod-course).
 
 This repository was forked from a Data Carpentry [repository](https://github.com/datacarpentry/semester-biology).
 Some of the text in this README is from the README of that repository.

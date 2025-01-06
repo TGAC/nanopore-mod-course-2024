@@ -3,10 +3,10 @@ layout: page
 title: Home
 ---
 
-In this comprehensive two-day course in 2024, participants learned how to use nanopore sequencing to detect DNA base modifications.
+This is an archived course from 2024 where participants learned how to use nanopore sequencing to detect DNA base modifications.
 Designed to be used to accompany the course and also for self-guided students.
 This site was forked from a Data Carpentry repository.
-For the current version of this course website, please go [here](https://github.com/sathish-t/nanopore-mod-course).
+For the current version of this course website, please go [here](https://sathish-t.github.io/nanopore-mod-course).
 
 <img src="{{ site.earlhamlogo }}" alt="Earlham Institute logo">
 
