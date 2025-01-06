@@ -10,9 +10,9 @@ permalink:        pretty
 
 # Setup
 title:            Detection of DNA base modification using nanopore sequencing
-description:      'In this comprehensive two-day course, participants will learn how to use nanopore sequencing to detect DNA base modifications'
-url:              https://sathish-t.github.io/nanopore-mod-course
-baseurl:          /nanopore-mod-course
+description:      'In this comprehensive two-day course, participants will learn how to use nanopore sequencing to detect DNA base modifications (archive of 2024 course)'
+url:              https://tgac.github.io/nanopore-mod-course-2024
+baseurl:          /nanopore-mod-course-2024
 email:            sathish.thiyagarajan@earlham.ac.uk
 feedbackurl:      https://docs.google.com/forms/d/e/1FAIpQLSexsorpRrVaKZ2Am-dSf9QcivNkrF0_S7X0oeHk2rcJKx3kNA/viewform
 earlhamlogo:      https://www.earlham.ac.uk/themes/custom/earlham/dist/svg/logo.svg
@@ -21,7 +21,7 @@ author:
   url:            https://twitter.com/unintegrable
 
 github:
-  repo:           https://github.com/sathish-t/nanopore-mod-course
+  repo:           https://github.com/tgac/nanopore-mod-course-2024
   #               Be sure the 'Issues' feature is activated in 'Settings'
 
 plugins:
